@@ -1,13 +1,11 @@
+import time
+
 Points = 0
 
 print("Welcome To The Quiz Game !!")
 
-playing = input("Do you want to play? > ")
+time.sleep(2)
 
-if playing.lower() != "yes":
-    quit()
-
-print("Okay! Let's Play :)")
 
 
 # Question 1
