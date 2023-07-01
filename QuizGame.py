@@ -49,10 +49,6 @@ if answer.lower() == "france":
 else:
     print("Incorrect !")
 
-
-print("""
-
-""")
-print(f"     Game Is Over ")
-print(f"    You Got {Points} Correct Answers out of 4")
+print("\n\n\tGame Is Over ")
+print(f"\tYou Got {Points} Correct Answers out of 4")
 
